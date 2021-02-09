@@ -1,7 +1,7 @@
-# mireiay.github.io
+# mireiayurrita.github.io
 
 Work In Progress
 
-Website at http://mireiay.github.io/
+Website at http://mireiayurrita.github.io/
 
 Personal website, based on https://laetitiagauvin.github.io/
