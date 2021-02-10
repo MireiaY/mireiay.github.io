@@ -2,7 +2,7 @@
 
 Work In Progress
 
-Website at http://mireiayurrita.github.io/
+Website at https://mireiayurrita.github.io/
 
 Personal website, based on https://laetitiagauvin.github.io/
 
